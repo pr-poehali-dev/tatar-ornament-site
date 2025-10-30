@@ -174,6 +174,36 @@ const Index = () => {
                 </button>
               </div>
             </div>
+
+            <div className="mt-6 p-6 bg-secondary/10 rounded-lg border-l-4 border-secondary">
+              <h3 className="text-xl font-semibold mb-4 text-secondary">Сүзләр / Текст песни:</h3>
+              <div className="space-y-3 text-foreground leading-relaxed">
+                <p className="italic">
+                  Туган ягым — Татарстан,<br />
+                  Син минем изге ватаным.<br />
+                  Яшел урман, зәңгәр күл,<br />
+                  Синсез яшәү юк миңа.
+                </p>
+                <p className="italic">
+                  Идел елгасы ага,<br />
+                  Кояш нурлары сибә.<br />
+                  Татар җыры күңелдә,<br />
+                  Безнең горурлык — синең.
+                </p>
+                <p className="italic">
+                  Казан шәһәре матур,<br />
+                  Мәчетләр — асман тирәк.<br />
+                  Халкым телем, гореф-гадәт,<br />
+                  Барысы да — синең хәзинә.
+                </p>
+                <p className="italic">
+                  Туган ягым — Татарстан,<br />
+                  Син минем изге ватаным.<br />
+                  Йөрәгемдә һәрвакыт,<br />
+                  Сөюем мәңге сине мин.
+                </p>
+              </div>
+            </div>
           </div>
         </Card>
 
